@@ -44,6 +44,10 @@ Install Dependencies:
 
 npm install
 
+4. **Run the Application**:
+
+npm start
+
 #### How to Use the Application
 
 Type a keyword or phrase into the search box at the top of the page.
